@@ -10,3 +10,4 @@ Picture of a synthetic shot, simulating a surface survey.
 
 ![VSP](vsp2.png)
 Picture of a synthetic VSP, simulating a downhole acquistion survey.
+
